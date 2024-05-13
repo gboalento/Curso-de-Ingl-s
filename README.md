@@ -4,4 +4,4 @@ Repositório criado para um trabalho de POO, no período 2024.1. Professora resp
 O trabalho se trata de um projeto de aprendizagem em inglês.
 
 
-Alunos: Gabriel Carvalho da Silva Boalento, Isaac Oliveira pimentel e Tiago Lucas.
+Alunos: Gabriel Carvalho da Silva Boalento, Isaac Oliveira Pimentel e Tiago Lucas.
